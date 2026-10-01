@@ -7,7 +7,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 /**
  * @author Matheus Muniz
  */
-@SpringBootApplication // Classe principal
+@SpringBootApplication// Classe principal
 @EnableJpaAuditing
 public class ImagemPecasApplication {
 
